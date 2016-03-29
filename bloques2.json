@@ -1,0 +1,450 @@
+{
+	"Plan": [{
+		"levels": 8,
+		"dsc_curriculum": "INGENIERIA EN COMPUTACION-2",
+		"modality": "semestre",
+		"academic_degree": "BACHILLERATO UNIVERSITARIO",
+		"first_level": 0,
+		"courses": [{
+			"id_course": "CI0200",
+			"name": "examen diagnostico",
+			"credits": 0,
+			"hours": 0,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI0202,CI0201,CI1201,CI1202,CI1216,CI1218,CI1220,CI1221,CI1230,CI1301,CI1305,CI1307,CI1311,CI2202,CI2216,CI3202,CI3400",
+			"level": 0
+		}, {
+			"id_course": "CI0202",
+			"name": "ingles basico",
+			"credits": 2,
+			"hours": 3,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI0200,CI0201,CI1201,CI1202,CI1216,CI1218,CI1220,CI1221,CI1230,CI1301,CI1305,CI1307,CI1311,CI2202,CI2216,CI3202,CI3400",
+			"level": 0
+		}, {
+			"id_course": "CI1311",
+			"name": "ingles i para computacion",
+			"credits": 3,
+			"hours": 3,
+			"requirements": "CI0200,CI0202",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI1230,CI1301",
+			"level": 1
+		}, {
+			"id_course": "CI1403",
+			"name": "comunicacion tecnica",
+			"credits": 2,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI1102,CI1401,CI1404,CI1101,CI1105,CI1105,CI1106,CI1106,CI1107,CI1103,CS1101,CI1101,CI1103,CI1105,CS1101,CI1101,CI1107",
+			"level": 1
+		}, {
+			"id_course": "IC1800",
+			"name": "introduccion a la programacion",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA1107,IC1802",
+			"level": 1
+		}, {
+			"id_course": "IC1801",
+			"name": "taller de programacion",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "IC1800",
+			"required_by": "IC1800",
+			"equivalent": "CA1107,IC1803",
+			"level": 1
+		}, {
+			"id_course": "MA1403",
+			"name": "matematica discreta",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA1111,CA1500,EM1601,MA1105,MA1402",
+			"level": 1
+		}, {
+			"id_course": "SE1100",
+			"name": "actividad cultural i",
+			"credits": 0,
+			"hours": 2,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "SE1101,SE1102,SE1103,SE1104,SE1105,SE1106,SE1107,SE1108,SE1109,SE1110,SE1111,SE2101,SE2102,SE2103,SE2104,SE2105,SE2106,SE2107,SE2108,SE2109",
+			"level": 1
+		}, {
+			"id_course": "CI1312",
+			"name": "ingles ii para computacion",
+			"credits": 3,
+			"hours": 3,
+			"requirements": "CI1311",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI1231,CI1301",
+			"level": 2
+		}, {
+			"id_course": "FH1000",
+			"name": "centros de formacion humanistica",
+			"credits": 0,
+			"hours": 2,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "FH0001,FH0002,FH0003,FH0004,FH0005,FH0006,FH0007,FH0008,FH0009,FH0010,FH0011,FH0012,FH0013,FH0014,FH0015,FH0016,FH0017,FH0018,FH0019,FH0020,FH0021,FH0022,FH0023,FH0024,FH0025,FH0026,FH0027,FH0028,FH0029,FH0030,FH0031,FH0032,FH0033,FH0034,FH0035,FH0036,FH0037,FH0038,FH0039,FH0040,FH0041,FH0042,FH0043,FH0044,FH0045,FH0046,FH0047,FH0048,FH0049,FH0050,FH0051,FH0052,FH0053,FH0054,FH0055,FH0056,FH0057,FH0058,FH0059,FH0060,FH0061,FH0062,FH0063,FH0064,FH0065,FH0066,FH0067,FH0068,FH0069,FH0070,FH0071,FH0072,FH0073,FH0074,FH0075,FH0076,FH0077,FH0078,FH0079,FH0080,FH0081,FH0082,FH0083,FH0084,FH0085,FH0086,FH0087,FH0088,FH0089,FH0090,FH0091,FH0092,FH0093,FH0094,FH0095,FH0096,FH0097,FH0098,FH0099,FH0100,FH0101,FH0102,FH0103,FH0104,FH0105,FH0106,FH0107,FH0108,FH0109,FH0110,FH0111,FH0112,FH0113,FH0114,FH0115,FH0116,FH0117,FH0118,FH0119,FH0120,FH0121,FH0122,FH0123,FH0124,FH0125,FH0126,FH0127,FH0128,FH0129,FH0130,FH0131,FH0132,FH0133,FH0134,FH0135,FH0136,FH0137,FH0138,FH0139,FH0140,FH0141,FH0142,FH0143,FH0144,FH0145,FH0146,FH0147,FH0148,FH0149,FH0150,FH0151,FH0152,FH0153,FH0154,FH0155,FH0156,FH0157,FH0158,FH0159,FH0160,FH0161,FH0162,FH0163,FH0164,FH0165,FH0166,FH0167,FH0168,FH0169,FH0170,FH0171,FH0172,FH0173,FH0174,FH0175,FH0176,FH0177,FH0178,FH0179,FH0180,FH0181,FH0182,FH0183,FH0184,FH0185,FH0186,FH0187,FH0188,FH0189,FH0190,FH0191,FH0192,FH0193,FH0194,FH0195,FH0196,FH0197,FH0198,FH0199,FH0200,FH0201,FH0202,FH0203,FH0204,FH0205,FH0206,FH0207,FH0208,FH0209,FH0210,FH0211,FH0212,FH0213,FH0214,FH0215,FH0216,FH0217,FH0218,FH0219,FH0220,FH0221,FH0222,FH0223,FH0224,FH0225,FH0226,FH0227,FH0228,FH0229,FH0230,FH0231,FH0232,FH0233,FH0234,FH0235,FH0236,FH0237,FH0238,FH0239,FH0240,FH0241",
+			"level": 2
+		}, {
+			"id_course": "IC2000",
+			"name": "algoritmos y estructuras de datos i",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC1800,IC1801",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA2105",
+			"level": 2
+		}, {
+			"id_course": "IC2100",
+			"name": "organizacion de computadores y lenguaje ensamblador",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC1801",
+			"co_requirements": "IC2000",
+			"required_by": "IC2000",
+			"equivalent": "CA1001,CA3404",
+			"level": 2
+		}, {
+			"id_course": "MA1404",
+			"name": "calculo",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "MA1403",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "MA1115,MA1401",
+			"level": 2
+		}, {
+			"id_course": "SE1200",
+			"name": "actividad deportiva i",
+			"credits": 0,
+			"hours": 2,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "SE1201,SE1202,SE1203,SE1204,SE1205,SE1206,SE1207,SE1208,SE1209,SE1210,SE1211,SE1216,SE1218,SE1219,SE1220,SE1221,SE1222,SE1223,SE2200,SE2201,SE2202,SE2203,SE2204,SE2205,SE2206,SE2207,SE2208,SE2209,SE2210,SE2218,SE2219",
+			"level": 2
+		}, {
+			"id_course": "AE4208",
+			"name": "desarrollo de emprendedores",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "AE3201,AE4206",
+			"level": 3
+		}, {
+			"id_course": "CI1313",
+			"name": "ingles iii para computacion",
+			"credits": 3,
+			"hours": 3,
+			"requirements": "CI1312",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI1302",
+			"level": 3
+		}, {
+			"id_course": "IC3001",
+			"name": "algoritmos y estructuras de datos 2",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC2000,MA1404",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA3106",
+			"level": 3
+		}, {
+			"id_course": "IC3101",
+			"name": "arquitectura de computadores",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC2100",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA6403",
+			"level": 3
+		}, {
+			"id_course": "MA2405",
+			"name": "algebra lineal para computacion",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "MA1404",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "MA2115,MA2403",
+			"level": 3
+		}, {
+			"id_course": "SE1400",
+			"name": "actividad cultural-deportiva",
+			"credits": 0,
+			"hours": 2,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "SE1100,SE1101,SE1102,SE1103,SE1104,SE1105,SE1106,SE1107,SE1108,SE1109,SE1110,SE1111,SE1200,SE1201,SE1202,SE1203,SE1204,SE1205,SE1206,SE1207,SE1208,SE1209,SE1210,SE1211,SE1216,SE1218,SE1219,SE1220,SE1221,SE1222,SE1223,SE2100,SE2101,SE2102,SE2103,SE2104,SE2105,SE2106,SE2107,SE2108,SE2109,SE2110,SE2201,SE2202,SE2203,SE2204,SE2205,SE2206,SE2207,SE2208,SE2209,SE2210,SE2218,SE2219",
+			"level": 3
+		}, {
+			"id_course": "CI1314",
+			"name": "ingles iv para computacion",
+			"credits": 3,
+			"hours": 3,
+			"requirements": "CI1313",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CI1302",
+			"level": 4
+		}, {
+			"id_course": "CS2101",
+			"name": "ambiente humano",
+			"credits": 2,
+			"hours": 3,
+			"requirements": "CI1403",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CS3103",
+			"level": 4
+		}, {
+			"id_course": "IC4000",
+			"name": "electiva 1",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA2102,CA2501,CA3104,CA4403,CA5025,CA6304,CA8207,CA8306,CA8329,IC4001,IC4002,IC5000,IC6831,IC7000,IC8001,IC8002,IC8003,IC8004,IC8005,IC8006,IC8007,IC8009,IC8010,IC8011,IC8012,IC8013,IC8014,IC8015,IC8016,IC8017,IC8018,IC8019,IC8020,IC8021,IC8022,IC8023,IC8024,IC8025,IC8026,IC8027,IC8028,IC8029,IC8030,IC8031,IC8032,IC8033,IC8034,IC8035,IC8036,IC8037,IC8038,IC8039,IC8041",
+			"level": 4
+		}, {
+			"id_course": "IC4300",
+			"name": "bases de datos",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC3001,MA2405",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA4303",
+			"level": 4
+		}, {
+			"id_course": "IC4700",
+			"name": "lenguajes de programacion",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC3001,IC3101",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA4108",
+			"level": 4
+		}, {
+			"id_course": "IC4810",
+			"name": "administracion de proyectos",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "AE4208",
+			"co_requirements": "IC4700",
+			"required_by": "IC4700",
+			"equivalent": "CA5200",
+			"level": 4
+		}, {
+			"id_course": "MA2404",
+			"name": "probabilidades",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "MA2405",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA3503",
+			"level": 4
+		}, {
+			"id_course": "CS3401",
+			"name": "seminario de estudios filosoficos historicos",
+			"credits": 2,
+			"hours": 3,
+			"requirements": "CS2101",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CS5401",
+			"level": 5
+		}, {
+			"id_course": "IC5000",
+			"name": "electiva 2",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA2102,CA2501,CA3104,CA4403,CA5025,CA6304,CA8207,CA8306,CA8329,IC4000,IC4001,IC4002,IC6831,IC7000,IC8001,IC8002,IC8003,IC8004,IC8005,IC8006,IC8007,IC8009,IC8010,IC8011,IC8012,IC8013,IC8014,IC8015,IC8016,IC8017,IC8018,IC8019,IC8020,IC8021,IC8022,IC8023,IC8024,IC8025,IC8026,IC8027,IC8028,IC8029,IC8030,IC8031,IC8032,IC8033,IC8034,IC8035,IC8036,IC8037,IC8038,IC8039,IC8041",
+			"level": 5
+		}, {
+			"id_course": "IC5701",
+			"name": "compiladores e interpretes",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC4700",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA5301",
+			"level": 5
+		}, {
+			"id_course": "IC5820",
+			"name": "especificaciones de software",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC4300,IC4810",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA5201",
+			"level": 5
+		}, {
+			"id_course": "MA3405",
+			"name": "estadistica",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "MA2404",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA4502",
+			"level": 5
+		}, {
+			"id_course": "CS4402",
+			"name": "seminario de estudios costarricenses",
+			"credits": 2,
+			"hours": 3,
+			"requirements": "CS3401",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CS6402",
+			"level": 6
+		}, {
+			"id_course": "IC6200",
+			"name": "inteligencia artificial",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC5701",
+			"co_requirements": "IC6400",
+			"required_by": "IC6400",
+			"equivalent": "No hay materias equivalentes en el plan",
+			"level": 6
+		}, {
+			"id_course": "IC6400",
+			"name": "investigacion de operaciones",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "MA3405",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA3504,CA4505",
+			"level": 6
+		}, {
+			"id_course": "IC6600",
+			"name": "principios de sistemas operativos",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC3101,IC5701",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA6302",
+			"level": 6
+		}, {
+			"id_course": "IC6821",
+			"name": "diseño de software",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC5820",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA6202",
+			"level": 6
+		}, {
+			"id_course": "IC6830",
+			"name": "sistemas de informacion administrativos",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "IC6821",
+			"required_by": "IC6821",
+			"equivalent": "AE5111",
+			"level": 6
+		}, {
+			"id_course": "IC7000",
+			"name": "electiva 3",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "No hay requisitos en el plan",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA2102,CA2501,CA3104,CA4403,CA5025,CA6304,CA8207,CA8306,CA8329,IC4000,IC4001,IC4002,IC5000,IC6831,IC8001,IC8002,IC8003,IC8004,IC8005,IC8006,IC8007,IC8009,IC8010,IC8011,IC8012,IC8013,IC8014,IC8015,IC8016,IC8017,IC8018,IC8019,IC8020,IC8021,IC8022,IC8023,IC8024,IC8025,IC8026,IC8027,IC8028,IC8029,IC8030,IC8031,IC8032,IC8033,IC8034,IC8035,IC8036,IC8037,IC8038,IC8039,IC8041",
+			"level": 7
+		}, {
+			"id_course": "IC7601",
+			"name": "redes locales",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC6400,IC6600",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA6305",
+			"level": 7
+		}, {
+			"id_course": "IC7811",
+			"name": "administracion de la funcion de informacion",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC6821",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA8208",
+			"level": 7
+		}, {
+			"id_course": "IC7840",
+			"name": "proyecto",
+			"credits": 4,
+			"hours": 4,
+			"requirements": "IC6821,IC6830",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA8206,CA8328",
+			"level": 7
+		}, {
+			"id_course": "IC7900",
+			"name": "computacion y sociedad",
+			"credits": 2,
+			"hours": 4,
+			"requirements": "CI1314,CS4402",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA8000",
+			"level": 7
+		}, {
+			"id_course": "IC8841",
+			"name": "practica de especialidad",
+			"credits": 10,
+			"hours": 30,
+			"requirements": "IC6200,IC7601,IC7811,IC7840,IC7900",
+			"co_requirements": "No hay correquisitos en el plan",
+			"required_by": "No hay correquisitos en el plan",
+			"equivalent": "CA7000",
+			"level": 8
+		}]
+	}]
+}
